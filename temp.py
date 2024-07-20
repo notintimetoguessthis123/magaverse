@@ -1,0 +1,2 @@
+t = "In the MAGAverse, the American Dream is envisioned as a return to a time when America was perceived as stronger, safer, and more prosperous. It emphasizes the values of hard work, self-reliance, and traditional family structures. Economic opportunity is a key component, where everyone who puts in the effort has the chance to succeed and achieve financial stability. There is a strong focus on patriotism, national pride, and a belief in American exceptionalism."
+print(t.upper())
