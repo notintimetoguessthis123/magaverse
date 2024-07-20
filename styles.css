@@ -65,8 +65,12 @@ header {
     font-size: 2rem;
     cursor: pointer;
     position: absolute;
-    right: 20px;
+    right: 40px;
     top: 15px;
+    color: #ffffff;
+    background-color: rgba(30, 30, 30, 0.8);
+    padding: 10px;
+    border-radius: 5px;
 }
 
 nav ul {
